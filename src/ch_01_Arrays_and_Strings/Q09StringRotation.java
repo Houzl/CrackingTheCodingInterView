@@ -1,5 +1,8 @@
 package ch_01_Arrays_and_Strings;
-
+/**
+ * @author houzl
+ *
+ */
 public class Q09StringRotation {
   static boolean isRotation(String s1, String s2){
     String s3 = s2 + s2;
